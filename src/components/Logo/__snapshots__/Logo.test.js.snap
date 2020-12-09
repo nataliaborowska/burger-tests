@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly Logo component 1`] = `
+<div
+  className={undefined}
+  data-test="Logo"
+  style={
+    Object {
+      "height": undefined,
+    }
+  }
+>
+  <img
+    alt="MyBurger"
+    src="burger-logo.png"
+  />
+</div>
+`;
